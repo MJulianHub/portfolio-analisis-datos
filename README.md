@@ -1,10 +1,8 @@
 # Portafolio de Análisis de Datos
 
-¡Bienvenido a mi portafolio!
+Portafolio profesional de proyectos de análisis de datos y Business Intelligence, enfocados en la preparación, transformación, análisis y visualización de datos.
 
-Soy Ingeniero de Sistemas y actualmente estoy fortaleciendo mis habilidades en análisis de datos y Business Intelligence mediante proyectos prácticos de preparación, análisis y visualización de datos.
-
-En este repositorio encontrarás proyectos desarrollados con herramientas de análisis y visualización, enfocados en transformar datos en información útil para comprender el desempeño de un negocio y apoyar la toma de decisiones.
+Los proyectos integran herramientas como Power BI, DAX y Power Query para desarrollar dashboards interactivos, analizar indicadores de desempeño, identificar tendencias y presentar información relevante para la toma de decisiones empresariales.
 
 ## Proyectos
 
