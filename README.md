@@ -21,14 +21,18 @@ Dashboard desarrollado en Power BI para analizar el desempeño financiero y come
 
 [Ver proyecto y capturas](apple-power-bi/README.md)
 
-### 2. Medallero Olímpico
+### 2. Medallero Olímpico | Análisis Histórico con Power BI
 
-Proyecto de visualización y análisis de datos olímpicos desarrollado con Power BI.
+Mi primer dashboard en Power BI, enfocado en el análisis histórico de los Juegos Olímpicos desde 1896 hasta París 2024, utilizando un conjunto de aproximadamente 20.000 registros.
 
-**Herramientas:** por documentar según las utilizadas en el proyecto.
+**Incluye:**
+- Análisis del medallero general por país.
+- Comparación de resultados por género: femenino y masculino.
+- Análisis de medallas por disciplina deportiva.
+- Visualizaciones interactivas para identificar patrones y comparar resultados históricos.
 
-[Ver proyecto](medallero-olimpico/README.md)
+**Herramientas:** Power BI, Power Query y DAX.
 
----
+**Fuente de datos:** *Olympic Medalist Dataset (1896–2024)*, publicado por `sainsdataid` en GitHub a partir de datos de OlympAnalyt.
 
-Este portafolio forma parte de mi proceso de formación continua y desarrollo profesional en análisis de datos.
+[Ver proyecto y capturas](medallero-olimpico/README.md)
